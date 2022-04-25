@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.c34096a5.chunk.css",
+    "main.js": "/portfolio/static/js/main.d37f5508.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.d37f5508.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.209c2d7e.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.209c2d7e.js.map",
+    "static/js/2.00f94f91.chunk.js": "/portfolio/static/js/2.00f94f91.chunk.js",
+    "static/js/2.00f94f91.chunk.js.map": "/portfolio/static/js/2.00f94f91.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "precache-manifest.f4c1a421822432918dffac0106f5ca82.js": "/portfolio/precache-manifest.f4c1a421822432918dffac0106f5ca82.js",
+    "service-worker.js": "/portfolio/service-worker.js",
+    "static/css/main.c34096a5.chunk.css.map": "/portfolio/static/css/main.c34096a5.chunk.css.map",
+    "static/js/2.00f94f91.chunk.js.LICENSE.txt": "/portfolio/static/js/2.00f94f91.chunk.js.LICENSE.txt",
+    "static/media/MyProfile.png": "/portfolio/static/media/MyProfile.f4248d66.png",
+    "static/media/gbc.png": "/portfolio/static/media/gbc.c46419d9.png",
+    "static/media/logo-blue.png": "/portfolio/static/media/logo-blue.e737ef57.png",
+    "static/media/walmart.jpeg": "/portfolio/static/media/walmart.75cb8dae.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.209c2d7e.js",
+    "static/js/2.00f94f91.chunk.js",
+    "static/css/main.c34096a5.chunk.css",
+    "static/js/main.d37f5508.chunk.js"
+  ]
+}
