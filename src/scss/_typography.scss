@@ -29,7 +29,7 @@ $display-type-scale-base: minor-third;
   $font-size-h3: $font-size-h4 * $the-heading-type-scale;
   $font-size-h2: $font-size-h3 * $the-heading-type-scale;
   $font-size-h1: $font-size-h2 * $the-heading-type-scale;
-  $font-size-display-base: $font-size-h1 !global;
+  $font-size-display-base: null;
   h1,
   .h1 {
     font-size: $font-size-h1;
@@ -58,7 +58,7 @@ $display-type-scale-base: minor-third;
 
 @mixin create-display-type-scale($scale) {
   $the-display-type-scale: check-type-scale-value($scale);
-  $font-size-display-4: $font-size-display-base + $font-size-base;
+  $font-size-display-4: $font-size-base;
   $font-size-display-3: $font-size-display-4 * $the-display-type-scale;
   $font-size-display-2: $font-size-display-3 * $the-display-type-scale;
   $font-size-display-1: $font-size-display-2 * $the-display-type-scale;
