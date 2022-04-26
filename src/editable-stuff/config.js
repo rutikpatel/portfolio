@@ -87,7 +87,7 @@ const getInTouch = {
   show: true,
   heading: "Get In Touch",
   message:
-    "I'm currently looking for full-time Software Engineering. If you know of any positions available,available for freelancing if you have any questions, please feel free to email me at",
+    "I'm currently looking for full-time Software Engineering.Also available for freelancing. If you have any questions, please feel free to email me at",
   email: "rutikpatel3660@gmail.com",
 };
 
