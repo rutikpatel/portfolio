@@ -41,7 +41,7 @@ const about = {
   imageSize: 390,
   message:
     "My Name is Rutik; I am a graduate of George Brown College in Computer Programming and Analysis Program in 2022. I am very passionate about starting my career in the field of web development. In my leisure time, I used to spend time creating open-source projects as below.",
-  resume: "https://drive.google.com/file/d/1F7LnZsQHipnnhEtkXufrn89MVleaBTn-/view?usp=drive_link",
+  resume: "https://drive.google.com/file/d/1F7LnZsQHipnnhEtkXufrn89MVleaBTn-/view?usp=sharing",
   cover_letter: "https://drive.google.com/file/d/1B_-QFlPu8Vu_kyaYuqqwPkJ4rCaS_D2b/view?usp=sharing" ,
   academic_credentials: "https://drive.google.com/file/d/1JgZFB2oqrrT-gQHGp26Y5iFGxDnB2yeH/view?usp=sharing",
   capstone_project: "https://drive.google.com/file/d/1Fxai5ZvOlXgYXisDyu1lxTPo8kABFaBu/view?usp=sharing"
